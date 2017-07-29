@@ -1,0 +1,6 @@
+GMUSIC_EMAIL = 'g_email'
+GMUSIC_PASSWORD = 'g_password'
+SPOTIFY_CLIENT_ID = 'id'
+SPOTIFY_CLIENT_SECRET = 'secret'
+SPOTIFY_REDIRECT_URI = 'redirect'
+SPOTIFY_USER = 's_user'
