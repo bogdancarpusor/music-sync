@@ -1,6 +1,6 @@
 Cheetah==2.4.4
 Glances==2.10
-Jinja2==2.9.6
+Jinja2==2.11.3
 Landscape-Client==14.12
 MarkupSafe==1.0
 MechanicalSoup==0.7.0
